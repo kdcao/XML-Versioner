@@ -1,0 +1,670 @@
+2018-11-06 14:48:48,989 INFO [main] main.main [main.java:38] Ungültige Eingabe!
+2018-11-06 14:48:48,991 INFO [main] main.main [main.java:94] Programm wird beendet!
+2018-11-06 14:49:05,116 INFO [main] main.main [main.java:67] User moechte Element 2 updaten
+2018-11-06 14:49:09,770 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht diwo.version
+2018-11-06 14:49:09,770 INFO [main] m.XML_Editor [XML_Editor.java:63] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 14:49:09,770 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:8.5.6.0 neuer Wert: 4.4.0.1
+2018-11-06 14:49:09,813 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 14:49:17,141 INFO [main] main.main [main.java:94] Programm wird beendet!
+2018-11-06 15:23:01,946 INFO [main] main.main [main.java:66] User moechte Element 2 updaten
+2018-11-06 15:23:06,542 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht diwo.version
+2018-11-06 15:23:06,542 INFO [main] m.XML_Editor [XML_Editor.java:63] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:23:06,543 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:4.4.0.1 neuer Wert: 3.4.0.0
+2018-11-06 15:23:06,611 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:37:58,144 INFO [main] main.main [main.java:126] Programm diwo hinzugefügt
+2018-11-06 15:38:14,393 INFO [main] main.main [main.java:49] User moechte alle Versionen anpassen
+2018-11-06 15:38:23,293 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht diwo.version
+2018-11-06 15:38:23,294 INFO [main] m.XML_Editor [XML_Editor.java:63] diwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:38:23,294 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:3.4.0.0 neuer Wert: 5.6.2.1
+2018-11-06 15:38:23,331 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:38:23,337 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht inwo.version
+2018-11-06 15:38:23,338 INFO [main] m.XML_Editor [XML_Editor.java:63] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:38:23,338 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:3.4.0.0 neuer Wert: 5.6.2.1
+2018-11-06 15:38:23,345 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:38:23,349 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht diwo.version
+2018-11-06 15:38:23,350 INFO [main] m.XML_Editor [XML_Editor.java:63] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:38:23,351 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:3.4.0.0 neuer Wert: 5.6.2.1
+2018-11-06 15:38:23,359 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:38:23,363 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht admin.version
+2018-11-06 15:38:23,364 INFO [main] m.XML_Editor [XML_Editor.java:63] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:38:23,364 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:3.4.0.0 neuer Wert: 5.6.2.1
+2018-11-06 15:38:23,369 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:38:23,373 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht admin.version
+2018-11-06 15:38:23,373 INFO [main] m.XML_Editor [XML_Editor.java:63] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:38:23,374 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:3.4.0.0 neuer Wert: 5.6.2.1
+2018-11-06 15:38:23,377 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:38:23,381 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht inwo.version
+2018-11-06 15:38:23,382 INFO [main] m.XML_Editor [XML_Editor.java:63] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:38:23,382 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:3.4.0.0 neuer Wert: 5.6.2.1
+2018-11-06 15:38:23,386 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:38:23,389 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht diwo.version
+2018-11-06 15:38:23,390 INFO [main] m.XML_Editor [XML_Editor.java:63] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\DIWO\DIWO-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:38:23,391 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:3.4.0.0 neuer Wert: 5.6.2.1
+2018-11-06 15:38:23,395 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:48:04,057 INFO [main] main.main [main.java:49] User moechte alle Versionen anpassen
+2018-11-06 15:48:09,748 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht diwo.version
+2018-11-06 15:48:09,748 INFO [main] m.XML_Editor [XML_Editor.java:63] diwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:48:09,749 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:5.6.2.1 neuer Wert: 3.4.0.0
+2018-11-06 15:48:09,751 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:48:09,764 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht inwo.version
+2018-11-06 15:48:09,765 INFO [main] m.XML_Editor [XML_Editor.java:63] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:48:09,765 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:5.6.2.1 neuer Wert: 3.4.0.0
+2018-11-06 15:48:09,768 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:48:09,772 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht diwo.version
+2018-11-06 15:48:09,773 INFO [main] m.XML_Editor [XML_Editor.java:63] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:48:09,773 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:5.6.2.1 neuer Wert: 3.4.0.0
+2018-11-06 15:48:09,777 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:48:09,781 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht admin.version
+2018-11-06 15:48:09,781 INFO [main] m.XML_Editor [XML_Editor.java:63] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:48:09,781 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:5.6.2.1 neuer Wert: 3.4.0.0
+2018-11-06 15:48:09,784 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:48:09,788 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht admin.version
+2018-11-06 15:48:09,789 INFO [main] m.XML_Editor [XML_Editor.java:63] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:48:09,789 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:5.6.2.1 neuer Wert: 3.4.0.0
+2018-11-06 15:48:09,792 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:48:09,796 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht inwo.version
+2018-11-06 15:48:09,797 INFO [main] m.XML_Editor [XML_Editor.java:63] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:48:09,797 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:5.6.2.1 neuer Wert: 3.4.0.0
+2018-11-06 15:48:09,801 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:48:09,807 INFO [main] m.XML_Editor [XML_Editor.java:52] Element[1] entspricht diwo.version
+2018-11-06 15:48:09,807 INFO [main] m.XML_Editor [XML_Editor.java:63] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\DIWO\DIWO-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-06 15:48:09,808 INFO [main] m.XML_Editor [XML_Editor.java:64]  alter Wert:5.6.2.1 neuer Wert: 3.4.0.0
+2018-11-06 15:48:09,812 INFO [main] m.XML_Editor [XML_Editor.java:88] Done
+2018-11-06 15:54:11,672 INFO [main] main.main [main.java:129] Programm inwo hinzugefügt
+2018-11-06 15:54:50,407 INFO [main] main.main [main.java:38] Ungültige Eingabe!
+2018-11-06 15:54:50,408 INFO [main] main.main [main.java:109] Programm wird beendet!
+2018-11-06 15:55:32,166 INFO [main] main.main [main.java:129] Programm inwo hinzugefügt
+2018-11-06 15:55:47,282 INFO [main] m.XML_Editor [XML_Editor.java:167] Fehler!
+2018-11-06 15:57:56,211 INFO [main] main.main [main.java:129] Programm inwo hinzugefügt
+2018-11-06 16:00:17,883 INFO [main] main.main [main.java:129] Programm inwo hinzugefügt
+2018-11-06 16:01:33,966 INFO [main] main.main [main.java:105] User löscht den 8. Dateipfad
+2018-11-06 16:02:14,834 INFO [main] main.main [main.java:105] User löscht den 5. Dateipfad
+2018-11-06 16:02:49,216 INFO [main] main.main [main.java:130] Programm diwo hinzugefügt
+2018-11-06 16:03:22,205 INFO [main] main.main [main.java:105] User löscht den 8. Dateipfad
+2018-11-07 08:55:23,446 INFO [main] main.main [main.java:66] User moechte Element 7 updaten
+2018-11-07 08:55:28,034 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht inwo.version
+2018-11-07 08:55:28,034 INFO [main] m.XML_Editor [XML_Editor.java:64] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:28,034 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:3.4.0.0 neuer Wert: 4.4.0.1
+2018-11-07 08:55:28,076 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 08:55:41,916 INFO [main] main.main [main.java:49] User moechte alle Versionen anpassen
+2018-11-07 08:55:47,648 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht diwo.version
+2018-11-07 08:55:47,648 INFO [main] m.XML_Editor [XML_Editor.java:64] diwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:47,649 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 08:55:47,652 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 08:55:47,655 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht inwo.version
+2018-11-07 08:55:47,656 INFO [main] m.XML_Editor [XML_Editor.java:64] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:47,657 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 08:55:47,665 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 08:55:47,668 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht diwo.version
+2018-11-07 08:55:47,668 INFO [main] m.XML_Editor [XML_Editor.java:64] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:47,669 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 08:55:47,672 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 08:55:47,675 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht admin.version
+2018-11-07 08:55:47,676 INFO [main] m.XML_Editor [XML_Editor.java:64] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:47,676 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 08:55:47,679 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 08:55:47,685 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht admin.version
+2018-11-07 08:55:47,685 INFO [main] m.XML_Editor [XML_Editor.java:64] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:47,685 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 08:55:47,688 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 08:55:47,691 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht diwo.version
+2018-11-07 08:55:47,691 INFO [main] m.XML_Editor [XML_Editor.java:64] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\DIWO\DIWO-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:47,691 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 08:55:47,694 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 08:55:47,697 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht diwo.version
+2018-11-07 08:55:47,697 INFO [main] m.XML_Editor [XML_Editor.java:64] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:47,697 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 08:55:47,699 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 08:55:47,702 INFO [main] m.XML_Editor [XML_Editor.java:53] Element[1] entspricht inwo.version
+2018-11-07 08:55:47,702 INFO [main] m.XML_Editor [XML_Editor.java:64] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 08:55:47,702 INFO [main] m.XML_Editor [XML_Editor.java:65]  alter Wert:4.4.0.1 neuer Wert: 3.4.0.0
+2018-11-07 08:55:47,705 INFO [main] m.XML_Editor [XML_Editor.java:89] Done
+2018-11-07 10:45:19,066 INFO [main] main.main [main.java:66] User moechte alle Versionen anpassen
+2018-11-07 10:45:25,525 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:45:25,525 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:25,526 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:45:25,664 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:45:25,670 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 10:45:25,671 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:25,671 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:45:25,681 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:45:25,687 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:45:25,687 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:25,688 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:45:25,693 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:45:25,698 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 10:45:25,698 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:25,699 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:45:25,704 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:45:25,707 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 10:45:25,708 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:25,708 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:45:25,711 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:45:25,716 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:45:25,717 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\DIWO\DIWO-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:25,718 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:45:25,722 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:45:25,725 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:45:25,726 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:25,726 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:45:25,729 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:45:25,744 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 10:45:25,744 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:25,745 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:45:25,748 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:45:36,481 INFO [main] main.main [main.java:82] User moechte Element 3 updaten
+2018-11-07 10:45:42,422 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 10:45:42,423 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:45:42,423 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.5.0.0
+2018-11-07 10:45:42,426 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:46:35,497 INFO [main] main.main [main.java:155] Programm diwo hinzugefügt
+2018-11-07 10:46:59,653 INFO [main] main.main [main.java:130] User löscht den 8. Dateipfad
+2018-11-07 10:48:52,792 INFO [main] main.main [main.java:82] User moechte Element 4 updaten
+2018-11-07 10:48:57,283 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 10:48:57,283 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:48:57,283 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.4.0.0
+2018-11-07 10:48:57,286 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:54:31,502 INFO [main] main.main [main.java:66] User moechte alle Versionen anpassen
+2018-11-07 10:54:58,657 INFO [main] main.main [main.java:67] User moechte alle Versionen anpassen
+2018-11-07 10:55:05,945 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:55:05,946 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:55:05,947 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:55:05,983 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:55:05,988 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 10:55:05,989 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:55:05,990 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:55:06,000 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:55:06,006 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:55:06,006 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:55:06,006 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:55:06,014 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:55:06,020 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 10:55:06,021 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:55:06,021 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.5.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:55:06,026 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:55:06,030 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 10:55:06,030 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:55:06,031 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:55:06,035 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:55:06,039 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:55:06,039 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\DIWO\DIWO-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:55:06,039 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:55:06,043 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:55:06,046 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:55:06,047 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:55:06,047 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:55:06,050 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:55:06,060 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 10:55:06,060 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:55:06,060 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-07 10:55:06,064 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:55:19,199 INFO [main] main.main [main.java:141] Unbekannte Eingabe: 0
+2018-11-07 10:55:26,100 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 10:55:26,101 INFO [main] main.main [main.java:136] Programm wird beendet!
+2018-11-07 10:59:28,796 INFO [main] main.main [main.java:67] User moechte alle Versionen anpassen
+2018-11-07 10:59:32,505 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:59:32,506 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:59:32,507 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.3.0.0
+2018-11-07 10:59:32,541 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:59:32,547 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 10:59:32,547 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:59:32,548 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.3.0.0
+2018-11-07 10:59:32,555 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:59:32,559 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:59:32,560 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:59:32,560 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.3.0.0
+2018-11-07 10:59:32,566 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:59:32,572 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 10:59:32,572 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:59:32,573 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.3.0.0
+2018-11-07 10:59:32,576 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:59:32,583 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 10:59:32,583 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:59:32,583 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.3.0.0
+2018-11-07 10:59:32,588 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:59:32,593 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:59:32,593 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\DIWO\DIWO-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:59:32,593 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.3.0.0
+2018-11-07 10:59:32,597 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:59:32,600 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 10:59:32,601 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:59:32,601 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.3.0.0
+2018-11-07 10:59:32,604 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:59:32,609 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 10:59:32,609 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 10:59:32,609 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.3.0.0
+2018-11-07 10:59:32,612 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 10:59:46,105 INFO [main] main.main [main.java:156] Programm diwo hinzugefügt
+2018-11-07 10:59:52,184 INFO [main] main.main [main.java:131] User löscht den 8. Dateipfad
+2018-11-07 10:59:56,919 INFO [main] main.main [main.java:136] Programm wird beendet!
+2018-11-07 11:00:38,680 INFO [main] main.main [main.java:83] User moechte Element 5 updaten
+2018-11-07 11:00:44,494 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 11:00:44,494 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\DIWO\DIWO-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 11:00:44,495 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.3.0.0 neuer Wert: 3.5.0.0
+2018-11-07 11:00:44,543 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 11:12:17,986 INFO [main] main.main [main.java:158] Programm diwo hinzugefügt
+2018-11-07 11:13:13,703 INFO [main] main.main [main.java:164] Dateipfad existiert bereits!
+2018-11-07 11:13:29,211 INFO [main] main.main [main.java:131] User löscht den 8. Dateipfad
+2018-11-07 11:13:38,108 INFO [main] main.main [main.java:131] User löscht den 5. Dateipfad
+2018-11-07 11:14:28,060 INFO [main] main.main [main.java:131] User löscht den 0. Dateipfad
+2018-11-07 11:21:08,104 INFO [main] main.main [main.java:67] User moechte alle Versionen anpassen
+2018-11-07 11:21:15,220 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 11:21:15,221 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 11:21:15,221 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.3.0.0 neuer Wert: 3.4.0.0
+2018-11-07 11:21:15,260 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 11:21:15,263 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 11:21:15,263 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 11:21:15,263 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.3.0.0 neuer Wert: 3.4.0.0
+2018-11-07 11:21:15,269 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 11:21:15,272 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 11:21:15,273 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 11:21:15,273 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.3.0.0 neuer Wert: 3.4.0.0
+2018-11-07 11:21:15,279 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 11:21:15,286 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 11:21:15,287 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 11:21:15,287 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.3.0.0 neuer Wert: 3.4.0.0
+2018-11-07 11:21:15,290 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 11:21:15,293 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 11:21:15,293 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 11:21:15,294 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.3.0.0 neuer Wert: 3.4.0.0
+2018-11-07 11:21:15,296 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 11:21:15,302 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 11:21:15,302 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 11:21:15,302 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.3.0.0 neuer Wert: 3.4.0.0
+2018-11-07 11:21:15,305 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 11:22:10,813 INFO [main] main.main [main.java:83] User moechte Element 4 updaten
+2018-11-07 11:22:18,776 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 11:22:18,776 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 11:22:18,777 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.0.8.0
+2018-11-07 11:22:18,781 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 11:23:52,598 INFO [main] main.main [main.java:158] Programm diwo hinzugefügt
+2018-11-07 11:24:46,606 INFO [main] main.main [main.java:158] Programm administation hinzugefügt
+2018-11-07 11:27:36,967 INFO [main] main.main [main.java:164] Dateipfad existiert bereits!
+2018-11-07 12:11:24,812 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,815 INFO [main] main.main [main.java:136] Programm wird beendet!
+2018-11-07 12:11:24,873 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,881 INFO [main] main.main [main.java:136] Programm wird beendet!
+2018-11-07 12:11:24,890 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,900 INFO [main] main.main [main.java:135] Programm wird beendet!
+2018-11-07 12:11:24,898 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,879 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,906 INFO [main] main.main [main.java:135] Programm wird beendet!
+2018-11-07 12:11:24,908 INFO [main] main.main [main.java:136] Programm wird beendet!
+2018-11-07 12:11:24,910 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,919 INFO [main] main.main [main.java:135] Programm wird beendet!
+2018-11-07 12:11:24,939 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,946 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,952 INFO [main] main.main [main.java:136] Programm wird beendet!
+2018-11-07 12:11:24,954 INFO [main] main.main [main.java:136] Programm wird beendet!
+2018-11-07 12:11:24,986 INFO [main] main.main [main.java:53] Ungültige Eingabe!
+2018-11-07 12:11:24,993 INFO [main] main.main [main.java:136] Programm wird beendet!
+2018-11-07 12:45:41,043 INFO [main] main.main [main.java:62] User moechte alle Versionen anpassen
+2018-11-07 12:45:44,274 INFO [main] main.main [main.java:48] Ungültige Eingabe!
+2018-11-07 12:45:44,274 INFO [main] main.main [main.java:128] Programm wird beendet!
+2018-11-07 12:45:52,665 INFO [main] main.main [main.java:62] User moechte alle Versionen anpassen
+2018-11-07 12:47:13,918 INFO [main] main.main [main.java:62] User moechte alle Versionen anpassen
+2018-11-07 12:49:16,248 INFO [main] main.main [main.java:62] User moechte alle Versionen anpassen
+2018-11-07 12:49:23,486 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 12:49:23,487 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:49:23,487 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.8.8
+2018-11-07 12:49:23,527 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:49:23,530 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 12:49:23,530 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:49:23,531 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.8.8
+2018-11-07 12:49:23,535 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:49:23,540 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 12:49:23,540 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:49:23,540 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.8.8
+2018-11-07 12:49:23,546 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:49:23,552 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 12:49:23,553 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:49:23,554 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.8.8
+2018-11-07 12:49:23,558 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:49:23,561 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 12:49:23,562 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:49:23,562 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.0.8.0 neuer Wert: 8.8.8.8
+2018-11-07 12:49:23,565 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:49:23,571 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 12:49:23,572 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:49:23,572 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.8.8
+2018-11-07 12:49:23,576 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:49:23,580 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 12:49:23,580 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:49:23,580 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.5.0.0 neuer Wert: 8.8.8.8
+2018-11-07 12:49:23,584 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:49:23,594 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:49:55,508 INFO [main] main.main [main.java:123] User löscht den 7. Dateipfad
+2018-11-07 12:51:09,073 INFO [main] TUI.main [main.java:67] User moechte alle Versionen anpassen
+2018-11-07 12:51:15,746 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 12:51:15,747 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:51:15,747 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.8.8 neuer Wert: 3.4.0.0
+2018-11-07 12:51:15,784 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:51:15,789 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 12:51:15,790 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:51:15,790 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.8.8 neuer Wert: 3.4.0.0
+2018-11-07 12:51:15,796 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:51:15,799 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 12:51:15,800 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:51:15,801 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.8.8 neuer Wert: 3.4.0.0
+2018-11-07 12:51:15,806 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:51:15,810 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-07 12:51:15,810 INFO [main] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:51:15,810 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.8.8 neuer Wert: 3.4.0.0
+2018-11-07 12:51:15,813 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:51:15,815 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 12:51:15,816 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:51:15,816 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.8.8 neuer Wert: 3.4.0.0
+2018-11-07 12:51:15,819 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:51:15,825 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-07 12:51:15,825 INFO [main] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:51:15,826 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.8.8 neuer Wert: 3.4.0.0
+2018-11-07 12:51:15,829 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:51:15,833 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 12:51:15,834 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:51:15,834 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.8.8 neuer Wert: 3.4.0.0
+2018-11-07 12:51:15,837 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-07 12:51:21,808 INFO [main] TUI.main [main.java:80] User moechte Element 4 updaten
+2018-11-07 12:51:26,260 INFO [main] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-07 12:51:26,261 INFO [main] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-07 12:51:26,261 INFO [main] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.4.0.0
+2018-11-07 12:51:26,263 INFO [main] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:29:27,064 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 13:29:27,073 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:29:27,074 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.0.0
+2018-11-08 13:29:27,189 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:40:48,138 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 13:40:48,144 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:40:48,144 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.0.0 neuer Wert: 9.9.0.0
+2018-11-08 13:40:48,181 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:42:13,767 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:42:13,772 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:42:13,773 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 1.0.0.1
+2018-11-08 13:42:13,815 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:43:04,747 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:43:04,752 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:43:04,752 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:1.0.0.1 neuer Wert: 3.4.0.0
+2018-11-08 13:43:04,797 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:45:05,553 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:45:05,559 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:45:05,560 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.9.0
+2018-11-08 13:45:05,598 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:46:08,384 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:46:08,390 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:46:08,391 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.9.0 neuer Wert: 1.0.0.1
+2018-11-08 13:46:08,434 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:46:40,569 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:46:40,576 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:46:40,577 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:1.0.0.1 neuer Wert: 1.3.3.3
+2018-11-08 13:46:40,618 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:47:19,808 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:47:19,812 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:47:19,813 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:1.3.3.3 neuer Wert: 4.5.6.7
+2018-11-08 13:47:19,855 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:49:32,208 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:49:32,214 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:49:32,215 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.5.6.7 neuer Wert: 5.6.1.2
+2018-11-08 13:49:32,252 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:52:07,624 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:52:07,629 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:52:07,630 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:5.6.1.2 neuer Wert: 2.2.3.5
+2018-11-08 13:52:07,665 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:52:14,645 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:52:14,646 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:52:14,646 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:2.2.3.5 neuer Wert: 2.2.3.5
+2018-11-08 13:52:14,650 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:53:55,900 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:53:55,905 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:53:55,906 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:2.2.3.5 neuer Wert:  
+2018-11-08 13:53:55,945 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:54:16,395 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:54:16,396 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:54:16,396 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:  neuer Wert:  3.4.0.0
+2018-11-08 13:54:16,399 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:56:52,509 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:56:52,517 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:56:52,517 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.5.0.0
+2018-11-08 13:56:52,564 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:59:15,713 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:59:15,722 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:59:15,722 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.5.0.0 neuer Wert: 3.4.0.0
+2018-11-08 13:59:15,760 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:59:15,764 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 13:59:15,765 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:59:15,765 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:9.9.0.0 neuer Wert: 3.4.0.0
+2018-11-08 13:59:15,769 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:59:15,773 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 13:59:15,773 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:59:15,774 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 13:59:15,779 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:59:15,787 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 13:59:15,787 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:59:15,788 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 13:59:15,793 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:59:15,797 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 13:59:15,797 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:59:15,798 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 13:59:15,803 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:59:15,810 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 13:59:15,811 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:59:15,812 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 13:59:15,816 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 13:59:15,822 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 13:59:15,822 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 13:59:15,823 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 13:59:15,828 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:02:15,535 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 14:02:15,542 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:02:15,542 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.5.6.7
+2018-11-08 14:02:15,587 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:03:19,578 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 14:03:19,585 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:03:19,586 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.5.6.2
+2018-11-08 14:03:19,643 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:12:40,089 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm diwo hinzugefügt
+2018-11-08 14:13:41,188 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:43] Element 6 wurde entfernt
+2018-11-08 14:13:54,018 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm diwo hinzugefügt
+2018-11-08 14:17:31,290 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 14:17:31,296 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:17:31,297 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.0.0
+2018-11-08 14:17:31,337 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:21:50,620 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 14:21:50,629 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:21:50,629 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.5.6.7 neuer Wert: 8.0.8.0
+2018-11-08 14:21:50,669 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:22:20,394 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 14:22:20,404 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:22:20,405 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.0.8.0 neuer Wert: 3.4.0.0
+2018-11-08 14:22:20,451 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:23:18,986 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 14:23:18,990 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:23:18,990 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.9.0.0
+2018-11-08 14:23:19,032 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:24:37,430 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 14:24:37,441 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:24:37,442 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.9.0.0 neuer Wert: 3.4.0.0
+2018-11-08 14:24:37,476 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:26:52,057 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 14:26:52,066 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:26:52,067 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 9.0.0.0
+2018-11-08 14:26:52,106 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:27:31,871 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 14:27:31,878 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:27:31,879 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:9.0.0.0 neuer Wert: 3.4.0.0
+2018-11-08 14:27:31,914 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 14:59:59,768 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 14:59:59,774 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 14:59:59,774 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.0.0 neuer Wert: 3.4.0.0
+2018-11-08 14:59:59,813 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:08:22,698 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:08:22,706 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:08:22,706 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.0.9.0
+2018-11-08 15:08:22,743 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:12:00,284 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:33] Dateipfad existiert bereits!
+2018-11-08 15:19:13,281 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:19:13,286 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:19:13,286 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.0.9.0 neuer Wert: 3.4.0.0
+2018-11-08 15:19:13,325 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:23:00,801 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:23:00,809 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:23:00,809 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.8.0.0
+2018-11-08 15:23:00,843 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:26:24,809 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:26:24,822 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:26:24,823 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.8.0.0 neuer Wert: 9.9.9.9
+2018-11-08 15:26:24,865 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:27:58,568 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:27:58,580 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:27:58,580 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:9.9.9.9 neuer Wert: 3.4.0.0
+2018-11-08 15:27:58,623 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:45:55,852 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:45:55,858 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:45:55,858 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.8.8.0
+2018-11-08 15:45:55,906 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:46:20,899 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:46:20,904 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:46:20,904 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:8.8.8.0 neuer Wert: 3.4.0.0
+2018-11-08 15:46:20,948 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:46:36,665 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:46:36,665 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:46:36,666 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.3.3.3
+2018-11-08 15:46:36,669 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:46:36,671 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 15:46:36,672 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:46:36,673 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.5.6.2 neuer Wert: 3.3.3.3
+2018-11-08 15:46:36,676 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:46:36,680 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 15:46:36,681 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:46:36,682 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.3.3.3
+2018-11-08 15:46:36,685 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:46:36,688 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 15:46:36,689 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:46:36,689 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.3.3.3
+2018-11-08 15:46:36,694 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:46:36,698 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 15:46:36,699 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:46:36,700 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.3.3.3
+2018-11-08 15:46:36,702 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:46:36,708 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:46:36,709 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:46:36,710 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.3.3.3
+2018-11-08 15:46:36,715 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:46:36,718 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 15:46:36,719 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:46:36,719 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.3.3.3
+2018-11-08 15:46:36,722 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:47:22,695 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:47:22,704 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:47:22,705 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.3.3.3 neuer Wert: 3.4.0.0
+2018-11-08 15:47:22,747 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:47:22,752 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 15:47:22,752 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:47:22,753 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.3.3.3 neuer Wert: 3.4.0.0
+2018-11-08 15:47:22,760 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:47:22,764 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 15:47:22,764 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:47:22,765 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.3.3.3 neuer Wert: 3.4.0.0
+2018-11-08 15:47:22,769 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:47:22,774 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 15:47:22,775 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:47:22,776 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.3.3.3 neuer Wert: 3.4.0.0
+2018-11-08 15:47:22,781 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:47:22,784 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 15:47:22,785 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:47:22,785 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.3.3.3 neuer Wert: 3.4.0.0
+2018-11-08 15:47:22,788 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:47:22,796 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:47:22,797 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:47:22,797 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.3.3.3 neuer Wert: 3.4.0.0
+2018-11-08 15:47:22,801 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:47:22,806 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 15:47:22,807 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:47:22,808 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.3.3.3 neuer Wert: 3.4.0.0
+2018-11-08 15:47:22,813 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:47:32,207 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:43] Element 6 wurde entfernt
+2018-11-08 15:47:41,047 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm diwo hinzugefügt
+2018-11-08 15:48:00,944 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 15:48:00,945 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:48:00,945 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 4.0.0.1
+2018-11-08 15:48:00,948 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:52:29,714 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 15:52:29,724 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 15:52:29,725 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.1
+2018-11-08 15:52:29,777 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 15:52:50,124 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:43] Element 5 wurde entfernt
+2018-11-08 15:53:00,094 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm inwo hinzugefügt
+2018-11-08 15:53:11,278 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:43] Element 1 wurde entfernt
+2018-11-08 15:53:19,677 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:33] Dateipfad existiert bereits!
+2018-11-08 15:54:09,006 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm diwo hinzugefügt
+2018-11-08 15:55:03,959 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm inwo-hilfe hinzugefügt
+2018-11-08 15:55:52,114 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:43] Element 5 wurde entfernt
+2018-11-08 16:00:28,867 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 16:00:28,871 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:00:28,872 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 16:00:28,906 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 16:00:49,045 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:43] Element 4 wurde entfernt
+2018-11-08 16:01:35,023 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm diwo hinzugefügt
+2018-11-08 16:02:01,367 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm inwo hinzugefügt
+2018-11-08 16:02:09,229 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:43] Element 6 wurde entfernt
+2018-11-08 16:02:18,340 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:33] Dateipfad existiert bereits!
+2018-11-08 16:13:18,979 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm diwo hinzugefügt
+2018-11-08 16:14:13,416 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 16:14:13,425 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:14:13,425 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.1 neuer Wert: 3.4.0.0
+2018-11-08 16:14:13,462 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 16:14:13,466 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 16:14:13,467 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\inwo\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:14:13,467 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 16:14:13,471 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 16:14:13,476 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht admin.version
+2018-11-08 16:14:13,476 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] admin.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\administration\admin-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:14:13,477 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.0.0.1 neuer Wert: 3.4.0.0
+2018-11-08 16:14:13,482 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 16:14:13,485 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 16:14:13,486 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:14:13,486 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 16:14:13,489 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 16:14:13,497 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 16:14:13,497 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:14:13,498 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 16:14:13,502 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 16:14:13,505 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 16:14:13,506 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo-hilfe\hilfe-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:14:13,507 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.3.0.0 neuer Wert: 3.4.0.0
+2018-11-08 16:14:13,511 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 16:14:13,516 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-08 16:14:13,516 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:14:13,517 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 16:14:13,520 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-08 16:14:13,526 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2018-11-08 16:14:13,527 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-08 16:14:13,527 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 3.4.0.0
+2018-11-08 16:14:13,531 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-09 14:43:37,669 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 7 wurde entfernt
+2018-11-09 14:45:44,309 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm diwo hinzugefügt
+2018-11-09 14:45:52,078 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 7 wurde entfernt
+2018-11-09 14:46:18,533 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:35] Dateipfad existiert bereits!
+2018-11-09 14:46:52,175 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm diwo hinzugefügt
+2018-11-09 14:47:02,775 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2018-11-09 14:47:02,775 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2018-11-09 14:47:02,776 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:3.4.0.0 neuer Wert: 8.0.1.5
+2018-11-09 14:47:02,852 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2018-11-09 14:57:58,665 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 2 wurde entfernt
+2018-11-09 14:58:15,822 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm administation hinzugefügt
+2018-11-09 14:58:38,068 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 2 wurde entfernt
+2018-11-09 14:58:47,405 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm inwo-hilfe hinzugefügt
+2018-11-09 15:38:15,414 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 3 wurde entfernt
+2018-11-09 15:38:23,618 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 0 wurde entfernt
+2018-11-09 15:38:35,332 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm inwo hinzugefügt
+2018-11-12 10:09:11,342 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 2 wurde entfernt
+2018-11-12 10:09:18,349 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:35] Dateipfad existiert bereits!
+2018-11-12 10:09:41,407 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm inwo hinzugefügt
+2018-11-12 10:10:20,405 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:35] Dateipfad existiert bereits!
+2018-11-12 10:11:12,766 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm inwo-hilfe hinzugefügt
+2018-11-12 10:11:12,841 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:177] Fehler!
+2018-11-12 10:25:29,436 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 0 wurde entfernt
+2018-11-12 10:26:02,107 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm administration hinzugefügt
+2018-11-12 10:26:02,108 INFO [AWT-EventQueue-0] GUI.GUI [GUI.java:292] Programm Administration hinzugefügt
+2018-11-12 10:26:10,603 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 2 wurde entfernt
+2018-11-12 10:26:40,291 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm administration hinzugefügt
+2018-11-12 10:26:40,292 INFO [AWT-EventQueue-0] GUI.GUI [GUI.java:292] Programm Administration hinzugefügt
+2018-11-12 10:52:15,317 INFO [AWT-EventQueue-0] GUI.GUI [GUI.java:379] Neuer Dateipfad gesetzt: C:\Users\A92939692\Desktop\Projektverzeichnis

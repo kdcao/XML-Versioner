@@ -1,0 +1,178 @@
+14:48:48.979 [main] ERROR main.main - Falsche Eingabe!
+14:48:48.989 [main] ERROR main.main - Fehler: 
+
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:864) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:33) ~[bin/:na]
+15:54:50.393 [main] ERROR main.main - Falsche Eingabe!
+15:54:50.406 [main] ERROR main.main - Fehler: 
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:864) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:33) ~[bin/:na]
+15:55:47.282 [main] ERROR main.XML_Editor - Fehler!
+org.xml.sax.SAXParseException: Content ist nicht zulässig in Prolog.
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:257) ~[na:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339) ~[na:1.8.0_162]
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:177) ~[na:1.8.0_162]
+	at main.XML_Editor.showContent(XML_Editor.java:125) ~[bin/:na]
+	at main.main.showList(main.java:150) [bin/:na]
+	at main.main.main(main.java:46) [bin/:na]
+10:55:26.090 [main] ERROR main.main - Falsche Eingabe!
+10:55:26.099 [main] ERROR main.main - Fehler: 
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:864) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.782 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.795 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.810 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.828 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.794 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.792 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.872 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.835 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.803 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.877 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.888 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.895 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.909 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.899 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.937 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.944 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:11:24.942 [main] ERROR main.main - Falsche Eingabe!
+12:11:24.986 [main] ERROR main.main - Fehler: 
+java.util.NoSuchElementException: null
+	at java.util.Scanner.throwFor(Scanner.java:862) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:46) ~[bin/:na]
+12:45:44.266 [main] ERROR main.main - Falsche Eingabe!
+12:45:44.273 [main] ERROR main.main - Fehler: 
+java.util.InputMismatchException: null
+	at java.util.Scanner.throwFor(Scanner.java:864) ~[na:1.8.0_162]
+	at java.util.Scanner.next(Scanner.java:1485) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2117) ~[na:1.8.0_162]
+	at java.util.Scanner.nextInt(Scanner.java:2076) ~[na:1.8.0_162]
+	at main.main.main(main.java:42) ~[bin/:na]
+10:11:12.839 [AWT-EventQueue-0] ERROR main.XML_Editor - Fehler!
+java.io.FileNotFoundException: C:\Users\A92939692\Desktop\inwo\source\inwo-hilfe\help-view\public_html\WEB-INF\web.xml (Das System kann den angegebenen Pfad nicht finden)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_162]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_162]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_162]
+	at java.io.FileInputStream.<init>(FileInputStream.java:93) ~[na:1.8.0_162]
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90) ~[na:1.8.0_162]
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188) ~[na:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:623) ~[na:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:148) ~[na:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:806) ~[na:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:771) ~[na:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141) ~[na:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243) ~[na:1.8.0_162]
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:339) ~[na:1.8.0_162]
+	at javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:177) ~[na:1.8.0_162]
+	at main.XML_Editor.showContent(XML_Editor.java:129) ~[bin/:na]
+	at GUI.GUI.showList(GUI.java:380) [bin/:na]
+	at GUI.GUI.<init>(GUI.java:108) [bin/:na]
+	at GUI.GUI$5.actionPerformed(GUI.java:290) [bin/:na]
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022) [na:1.8.0_162]
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348) [na:1.8.0_162]
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402) [na:1.8.0_162]
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259) [na:1.8.0_162]
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252) [na:1.8.0_162]
+	at java.awt.Component.processMouseEvent(Component.java:6533) [na:1.8.0_162]
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324) [na:1.8.0_162]
+	at java.awt.Component.processEvent(Component.java:6298) [na:1.8.0_162]
+	at java.awt.Container.processEvent(Container.java:2237) [na:1.8.0_162]
+	at java.awt.Component.dispatchEventImpl(Component.java:4889) [na:1.8.0_162]
+	at java.awt.Container.dispatchEventImpl(Container.java:2295) [na:1.8.0_162]
+	at java.awt.Component.dispatchEvent(Component.java:4711) [na:1.8.0_162]
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889) [na:1.8.0_162]
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4526) [na:1.8.0_162]
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4467) [na:1.8.0_162]
+	at java.awt.Container.dispatchEventImpl(Container.java:2281) [na:1.8.0_162]
+	at java.awt.Window.dispatchEventImpl(Window.java:2746) [na:1.8.0_162]
+	at java.awt.Component.dispatchEvent(Component.java:4711) [na:1.8.0_162]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:760) [na:1.8.0_162]
+	at java.awt.EventQueue.access$500(EventQueue.java:97) [na:1.8.0_162]
+	at java.awt.EventQueue$3.run(EventQueue.java:709) [na:1.8.0_162]
+	at java.awt.EventQueue$3.run(EventQueue.java:703) [na:1.8.0_162]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.8.0_162]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [na:1.8.0_162]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90) [na:1.8.0_162]
+	at java.awt.EventQueue$4.run(EventQueue.java:733) [na:1.8.0_162]
+	at java.awt.EventQueue$4.run(EventQueue.java:731) [na:1.8.0_162]
+	at java.security.AccessController.doPrivileged(Native Method) [na:1.8.0_162]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80) [na:1.8.0_162]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:730) [na:1.8.0_162]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205) [na:1.8.0_162]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116) [na:1.8.0_162]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105) [na:1.8.0_162]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) [na:1.8.0_162]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93) [na:1.8.0_162]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82) [na:1.8.0_162]
+10:23:04.787 [AWT-EventQueue-0] ERROR GUI.GUI - Der Angegebene Dateipfad existiert nicht!
+10:23:39.908 [AWT-EventQueue-0] ERROR GUI.GUI - Der Angegebene Dateipfad existiert nicht!
+
+10:26:55.659 [AWT-EventQueue-0] ERROR GUI.GUI - Der Angegebene Dateipfad existiert nicht!
+
+11:00:20.065 [AWT-EventQueue-0] ERROR GUI.GUI - Der Angegebene Dateipfad existiert nicht!
+
+11:02:09.993 [AWT-EventQueue-0] ERROR GUI.GUI - Der Angegebene Dateipfad existiert nicht!
+

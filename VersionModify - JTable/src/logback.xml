@@ -1,0 +1,52 @@
+
+<configuration>
+   <timestamp key="byDay" datePattern="dd.MM.yyyy' T'HH-mm-ss"/>
+ <!--- Anzeige in der Konsole -->
+   <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+   <!--- Filter bedingungen für ausgabe in der Konsole -->
+      <filter class="ch.qos.logback.classic.filter.LevelFilter">
+         <level>INFO</level>
+         <onMatch>ACCEPT</onMatch>
+         <onMismatch>DENY</onMismatch>
+      </filter>
+      <encoder>
+         <!--- Format für die Ausgabe -->
+         <pattern>%date{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+      </encoder>
+   </appender>
+  
+ <!--- Ausgabe von Errors in Errorlog -->
+   <appender name="File-Appender" class="ch.qos.logback.core.FileAppender">
+<filter class="ch.qos.logback.classic.filter.LevelFilter">
+         <level>ERROR</level>
+         <onMatch>ACCEPT</onMatch>
+         <onMismatch>DENY</onMismatch>
+      </filter>
+       <!--- Log speichern in datei -->
+    <file> log/Errorlog.log </file>
+      <append>true</append>
+       <encoder>
+         <pattern>%date{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
+      </encoder>
+   </appender>
+   
+  <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+       <filter class="ch.qos.logback.classic.filter.LevelFilter">
+         <level>INFO</level>
+ 		<onMatch>ACCEPT</onMatch>
+         <onMismatch>DENY</onMismatch>
+      </filter>
+    <file>log/log.log</file>
+    <encoder>
+      <pattern>%date %level [%thread] %logger{10} [%file:%line] %msg%n</pattern>
+    </encoder>
+  </appender>
+
+   
+   <root level="debug">
+      <appender-ref ref="FILE" />
+      <appender-ref ref="File-Appender" />
+      <appender-ref ref="STDOUT" />
+   </root>
+
+</configuration>
