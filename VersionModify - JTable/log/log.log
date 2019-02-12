@@ -668,3 +668,15 @@
 2018-11-12 10:26:40,291 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm administration hinzugefügt
 2018-11-12 10:26:40,292 INFO [AWT-EventQueue-0] GUI.GUI [GUI.java:292] Programm Administration hinzugefügt
 2018-11-12 10:52:15,317 INFO [AWT-EventQueue-0] GUI.GUI [GUI.java:379] Neuer Dateipfad gesetzt: C:\Users\A92939692\Desktop\Projektverzeichnis
+2019-02-12 15:11:17,644 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:48] Element 7 wurde entfernt
+2019-02-12 15:11:38,835 INFO [AWT-EventQueue-0] m.Funktion [Funktion.java:27] Programm administration hinzugefügt
+2019-02-12 15:11:38,893 INFO [AWT-EventQueue-0] GUI.GUI [GUI.java:310] Programm administration hinzugefügt
+2019-02-12 15:12:03,869 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht inwo.version
+2019-02-12 15:12:03,930 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] inwo.version in C:\Users\A92939692\Desktop\inwo\source\inwo\inwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2019-02-12 15:12:03,991 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:4.0.0.0 neuer Wert: 1.0.0.1
+2019-02-12 15:12:04,288 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2019-02-12 15:12:23,356 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done
+2019-02-12 15:12:36,656 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:57] Element[1] entspricht diwo.version
+2019-02-12 15:12:36,716 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:68] diwo.version in C:\Users\A92939692\Desktop\Projektverzeichnis\source\diwo\diwo-view\public_html\WEB-INF\web.xml wird angepasst ! 
+2019-02-12 15:12:36,777 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:69]  alter Wert:1.1.0.0 neuer Wert: 0.0.01
+2019-02-12 15:12:36,902 INFO [AWT-EventQueue-0] m.XML_Editor [XML_Editor.java:93] Done

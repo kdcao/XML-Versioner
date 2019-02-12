@@ -64,6 +64,10 @@ public class GUI extends JFrame {
 	private String prepfad;
 	private JTextField tfd_prepfad;
 	private Logger logger = LoggerFactory.getLogger(GUI.class);
+	private JSpinner spinner = new JSpinner();
+	private DateiList datalist = new DateiList();
+	private JCheckBox CBX_pfadErzeugen = new JCheckBox("Pfad erzeugen");
+	private JSpinner spin_del = new JSpinner();
 
 	/**
 	 * Launch the application.
@@ -96,7 +100,7 @@ public class GUI extends JFrame {
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
 
-		DateiList datalist = new DateiList();
+		
 		try {
 			datalist.load();
 		} catch (IOException e1) {
@@ -129,7 +133,7 @@ public class GUI extends JFrame {
 		label_1.setBounds(116, 37, 39, 14);
 		panel.add(label_1);
 
-		JSpinner spinner = new JSpinner();
+	
 		spinner.setBounds(153, 34, 29, 20);
 		spinner.setValue(-1);
 		panel.add(spinner);
@@ -241,7 +245,7 @@ public class GUI extends JFrame {
 		JLabel label = new JLabel("Wahl");
 		panel_2.add(label);
 
-		JSpinner spin_del = new JSpinner();
+		
 		panel_2.add(spin_del);
 		spin_del.setValue(-1);
 		JButton button = new JButton("L\u00F6schen");
@@ -282,7 +286,7 @@ public class GUI extends JFrame {
 		});
 		panel_2.add(button);
 
-		JCheckBox CBX_pfadErzeugen = new JCheckBox("Pfad erzeugen");
+		
 		panel_2.add(CBX_pfadErzeugen);
 
 		JButton button_1 = new JButton("Hinzuf\u00FCgen");
