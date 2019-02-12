@@ -1,9 +1,9 @@
-package test;
+package main.java.test;
 
 import java.util.ArrayList;
 
-import main.Datei;
-import main.XML_Editor;
+import main.java.main.Datei;
+import main.java.main.XML_Editor;
 
 public class test {
 

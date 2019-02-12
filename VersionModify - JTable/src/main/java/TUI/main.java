@@ -1,4 +1,4 @@
-package TUI;
+package main.java.TUI;
 
 import java.io.IOException;
 import java.util.Scanner;
@@ -6,10 +6,10 @@ import java.util.Scanner;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import main.Datei;
-import main.DateiList;
-import main.Funktion;
-import main.XML_Editor;
+import main.java.main.Datei;
+import main.java.main.DateiList;
+import main.java.main.Funktion;
+import main.java.main.XML_Editor;
 
 public class main {
 	final static String prePfad = "C:\\Users\\A92939692\\Desktop\\Projektverzeichnis";

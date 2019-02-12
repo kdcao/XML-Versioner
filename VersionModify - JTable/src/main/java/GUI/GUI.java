@@ -1,4 +1,4 @@
-package GUI;
+package main.java.GUI;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
@@ -15,11 +15,11 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
-import main.Datei;
-import main.DateiList;
-import main.Funktion;
-import main.XML_Editor;
-import main.fileWriter;
+import main.java.main.Datei;
+import main.java.main.DateiList;
+import main.java.main.Funktion;
+import main.java.main.XML_Editor;
+import main.java.main.fileWriter;
 
 
 import javax.swing.JButton;

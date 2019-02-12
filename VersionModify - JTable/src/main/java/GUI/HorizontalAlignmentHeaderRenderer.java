@@ -1,4 +1,4 @@
-package GUI;
+package main.java.GUI;
 
 import java.awt.Component;
 
